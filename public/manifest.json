@@ -1,0 +1,18 @@
+{
+  "short_name": "SlideCraft",
+  "name": "SlideCraft AI - Presentation Deck Builder",
+  "description": "Create, edit, and rehearse professional, high-impact presentation decks with Gemini AI.",
+  "icons": [
+    {
+      "src": "/pwa-icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#050b18",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "any"
+}
