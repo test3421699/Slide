@@ -64,7 +64,7 @@ Vibe-specific guidelines for background colors:
 Let the background colors vary subtly between slides to create a rhythmic pacing, but ensure cohesive styling.`;
 
     const response = await ai.models.generateContent({
-      model: "gemini-3.5-flash",
+      model: "gemini-2.5-flash",
       contents: prompt,
       config: {
         systemInstruction: "You are an elite slide designer. You translate complex raw details or loose topics into structured, visual, clear slide presentations in JSON format with speaker notes.",
