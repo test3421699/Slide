@@ -1,0 +1,6 @@
+{
+  "name": "SlideCraft AI",
+  "description": "A clean, modern web application that generates structured, beautifully-styled presentation slides in an interactive carousel using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
